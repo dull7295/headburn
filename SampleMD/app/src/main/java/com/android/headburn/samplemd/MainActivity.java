@@ -13,6 +13,7 @@ public class MainActivity extends ActionBarActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         //add some code here in fact this is my first commit.
+        //this change is making in GitHub.
     }
 
 
