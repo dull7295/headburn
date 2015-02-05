@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:bwq="http://schemas.android.com/apk/res-auto" >
+
+<item
+    android:id="@+id/share_weather"
+    android:title="@string/share_weather"
+    bwq:actionProviderClass="android.support.v7.widget.ShareActionProvider"
+    bwq:showAsAction="always"/>
+</menu>
